@@ -29,12 +29,12 @@ Hi there! I'm NOUREDDINE OUBOURHIM, a dedicated and enthusiastic developer passi
 
 ## Experience
 
-- **Senior Software Engineer** at [ALX]
+- **Senior Software Engineer** at ALX
   - Led a team of developers in building scalable web applications.
   - Implemented CI/CD pipelines to streamline the development process.
   - Conducted code reviews and mentored junior developers.
 
-- **Software Developer Intern** at [ALX]
+- **Software Developer Intern** at ALX
   - Developed RESTful APIs using Django and Flask.
   - Wrote automated tests to ensure code quality.
   - Participated in agile development sprints and collaborated with cross-functional teams.
