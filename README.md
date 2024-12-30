@@ -1,11 +1,10 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm NORTH89, a dedicated and enthusiastic developer passionate about creating innovative solutions and continuously learning new technologies.
+Hi there! I'm NOUREDDINE OUBOURHIM, a dedicated and enthusiastic developer passionate about creating innovative solutions and continuously learning new technologies.
 
 ## About Me
 
 - 💼 **Professional Background:** Backend Developer with experience in various industries.
-- 🌱 **Currently Learning:** Rust, Kubernetes, and AI/ML.
 - 🤝 **Open to Collaboration:** Yes, I love working on exciting projects with talented people.
 - 🌍 **Location:** Earth
 
@@ -26,8 +25,6 @@ Hi there! I'm NORTH89, a dedicated and enthusiastic developer passionate about c
 ### Tools & Platforms
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) Git & GitHub
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) Docker
-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) Jenkins
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) Kubernetes
 
 
 ## Experience
@@ -50,11 +47,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/noureddine-oubourhim-8ba049221/
 - 🐦 **Twitter:** https://x.com/Nordin_pixly
 
-## Fun Facts
 
-- 🎮 I love playing video games and often participate in game jams.
-- 📚 I'm an avid reader and enjoy books on technology and science fiction.
-- 🚴 I enjoy cycling and exploring new trails.
 
 ~~This line is an example of a strikethrough.~~
 
