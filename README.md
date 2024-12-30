@@ -29,9 +29,10 @@ I'm a **software developer** based in **AGADIR**, blending my love for **open-so
 
 Here are some of the projects I'm proud of:
 
-- **[Pwnagetty](https://github.com/CyrisXD/Pwnagetty)** - A project showcasing creative problem-solving.
-- **[Love Lock Card](https://github.com/NORTH89/love-lock-card)** - A project with a unique twist in design and functionality.
-My Rank 🔥
+## SOON
+
+
+## My Rank 🔥
 [![Trophy Case](https://github-profile-trophy.vercel.app/?username=NORTH89&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
