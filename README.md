@@ -46,9 +46,9 @@ Hi there! I'm NORTH89, a dedicated and enthusiastic developer passionate about c
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out through any of the following platforms:
 
-- 📧 **Email:** [your-email@example.com](usernyork@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/noureddine-oubourhim-8ba049221/)
-- 🐦 **Twitter:** [@YourTwitterHandle](https://x.com/Nordin_pixly)
+- 📧 **Email:** [usernyork@gmail.com](usernyork@gmail.com)
+- 💼 **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/noureddine-oubourhim-8ba049221/)](https://www.linkedin.com/in/noureddine-oubourhim-8ba049221/)
+- 🐦 **Twitter:** [[@YourTwitterHandle](https://x.com/Nordin_pixly)](https://x.com/Nordin_pixly)
 
 ## Fun Facts
 
