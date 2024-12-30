@@ -26,6 +26,8 @@ I'm a software developer based in New Zealand. I enjoy coding open-source projec
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NORTH89=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NORTH89=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/NORTH89/love-lock-card)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=NORTH89&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 &nbsp;
 
 ## 📊 &nbsp;Stats
