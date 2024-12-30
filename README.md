@@ -4,57 +4,47 @@ Hi there! I'm NOUREDDINE OUBOURHIM, a dedicated and enthusiastic developer passi
 
 ## About Me
 
-- 💼 **Professional Background:** Backend Developer with experience in various industries.
-- 🤝 **Open to Collaboration:** Yes, I love working on exciting projects with talented people.
-- 🌍 **Location:** Earth
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
-## Skills
+[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
 
-### Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Java
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) C++
+# 👋 &nbsp;Hi there
 
-### Frameworks & Libraries
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) React
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white) Node.js
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) Django
-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) Spring
+I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding, and building various projects with Javascript and node.js.
 
-### Tools & Platforms
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) Git & GitHub
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) Docker
+&nbsp;
 
+## 👇 &nbsp;Current project
 
-## Experience
+&nbsp;
 
-- **Senior Software Engineer** at ALX
-  - Led a team of developers in building scalable web applications.
-  - Implemented CI/CD pipelines to streamline the development process.
-  - Conducted code reviews and mentored junior developers.
+## ✏️ &nbsp;Blog posts
 
-- **Software Developer Intern** at ALX
-  - Developed RESTful APIs using Django and Flask.
-  - Wrote automated tests to ensure code quality.
-  - Participated in agile development sprints and collaborated with cross-functional teams.
+<!-- BLOG-POST-LIST:START -->
+- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
+- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
+- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
+- [Use Twitter to find developer friends near you](x.com/Nordin_pixly)
+<!-- BLOG-POST-LIST:END -->
 
-## Contact Me
+&nbsp;
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out through any of the following platforms:
+## 🧰 &nbsp;My toolbox
 
-- 📧 **Email:** usernyork@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/noureddine-oubourhim-8ba049221/
-- 🐦 **Twitter:** https://x.com/Nordin_pixly
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/> &nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 
+&nbsp;
 
+## 🖥 &nbsp;Past work
 
-~~This line is an example of a strikethrough.~~
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NORTH89=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NORTH89=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/NORTH89/love-lock-card)
 
-Thank you for visiting my profile! Let's connect and collaborate on amazing projects together.
+&nbsp;
 
----
+## 📊 &nbsp;Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NORTH89&show_icons=true&theme=dark)
+![NORTH89' Github Stats](https://github-readme-stats.vercel.app/api?username=NORTH89&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NORTH89&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NORTH89&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+<a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a>
