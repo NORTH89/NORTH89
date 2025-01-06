@@ -4,7 +4,7 @@ Hi! I'm **Noureddine Oubourhim**, a passionate and driven software engineer enth
 
 ## 🌟 About Me
 
-![Developer at Work]([gifsoon](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)) <!-- Consider adding a meaningful, polished GIF or image. -->
+![gifsoon](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)<!-- Consider adding a meaningful, polished GIF or image. -->
 
 I'm a **software developer** based in **AGADIR**, blending my love for **open-source**, **3D printing**, and **infosec** with modern technologies like **JavaScript** and **Node.js**. My goal is to build impactful tools and share knowledge with the developer community.
 
