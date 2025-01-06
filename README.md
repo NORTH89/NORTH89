@@ -1,15 +1,13 @@
  #  &nbsp; Welcome to My GitHub Profile! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
+---
+![gifsoon](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)<!-- Consider adding a meaningful, polished GIF or image. -->
 
-
-
+---
+## 🌟 About Me
 Hi! I'm **Noureddine Oubourhim**, a passionate and driven software engineer enthusiastic about solving problems through code and crafting innovative solutions. Welcome to my corner of the web where I share my projects and ideas.
 
 
-
-## 🌟 About Me
-
-![gifsoon](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)<!-- Consider adding a meaningful, polished GIF or image. -->
 
 ---
 
