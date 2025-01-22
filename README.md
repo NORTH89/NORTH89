@@ -1,7 +1,10 @@
  #  &nbsp; Welcome to My GitHub Profile! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-
-![gifsoon](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ0YjVjaTJtdTQ4ZnUyd2ZmMm82NGRieno5aWlwMmZleDhhaWdtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif)<!-- Consider adding a meaningful, polished GIF or image. --><!-- Consider adding a meaningful, polished GIF or image. -->
+---
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ4bHdpNGtqcXdyOWFiY3oxZjBoZmdvcjhiNXh6MXYxZThodXBxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" alt="gifsoon">
+</p>
+<!-- Consider adding a meaningful, polished GIF or image. --><!-- Consider adding a meaningful, polished GIF or image. -->
 
 ---
 ## 🌟 About Me
